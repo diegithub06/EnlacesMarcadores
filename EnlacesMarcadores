@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>El Periódico de Alcázar</h1>
+    <h2>La información de lo que importa</h2>
+    <a href="#actualidad">Actualidad</a>
+    <a href="#Política">Política</a>
+    <a href="#sucesos">Sucesos</a>
+    <a href="#deportes">Deportes</a>
+    <a href="#El tiempo">El tiempo</a>
+
+    <h3 id="actualidad">Actualidad</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident excepturi culpa est cumque totam corporis id, facilis hic ullam saepe magnam numquam nobis eum ut natus. Alias ut obcaecati consequuntur?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempore nostrum voluptatem minima qui perferendis fugit enim reiciendis accusamus fugiat consequuntur, libero odit omnis eligendi, nisi, ratione doloremque id quas!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio dolores facilis accusamus cupiditate aspernatur delectus praesentium ab nemo. Mollitia blanditiis nam nulla unde temporibus recusandae aspernatur culpa. Sunt, voluptatibus eius.</p>
+   
+    <h3 id="Política">Política</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident excepturi culpa est cumque totam corporis id, facilis hic ullam saepe magnam numquam nobis eum ut natus. Alias ut obcaecati consequuntur?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempore nostrum voluptatem minima qui perferendis fugit enim reiciendis accusamus fugiat consequuntur, libero odit omnis eligendi, nisi, ratione doloremque id quas!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio dolores facilis accusamus cupiditate aspernatur delectus praesentium ab nemo. Mollitia blanditiis nam nulla unde temporibus recusandae aspernatur culpa. Sunt, voluptatibus eius.</p>
+
+    <h3 id="sucesos">Sucesos</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident excepturi culpa est cumque totam corporis id, facilis hic ullam saepe magnam numquam nobis eum ut natus. Alias ut obcaecati consequuntur?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempore nostrum voluptatem minima qui perferendis fugit enim reiciendis accusamus fugiat consequuntur, libero odit omnis eligendi, nisi, ratione doloremque id quas!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio dolores facilis accusamus cupiditate aspernatur delectus praesentium ab nemo. Mollitia blanditiis nam nulla unde temporibus recusandae aspernatur culpa. Sunt, voluptatibus eius.</p>
+
+    <h3 id="deportes">Deportes</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident excepturi culpa est cumque totam corporis id, facilis hic ullam saepe magnam numquam nobis eum ut natus. Alias ut obcaecati consequuntur?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempore nostrum voluptatem minima qui perferendis fugit enim reiciendis accusamus fugiat consequuntur, libero odit omnis eligendi, nisi, ratione doloremque id quas!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio dolores facilis accusamus cupiditate aspernatur delectus praesentium ab nemo. Mollitia blanditiis nam nulla unde temporibus recusandae aspernatur culpa. Sunt, voluptatibus eius.</p>
+
+    <h3 id="El tiempo">El tiempo</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident excepturi culpa est cumque totam corporis id, facilis hic ullam saepe magnam numquam nobis eum ut natus. Alias ut obcaecati consequuntur?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempore nostrum voluptatem minima qui perferendis fugit enim reiciendis accusamus fugiat consequuntur, libero odit omnis eligendi, nisi, ratione doloremque id quas!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio dolores facilis accusamus cupiditate aspernatur delectus praesentium ab nemo. Mollitia blanditiis nam nulla unde temporibus recusandae aspernatur culpa. Sunt, voluptatibus eius.</p>
+</body>
+</html>
